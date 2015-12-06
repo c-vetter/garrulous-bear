@@ -1,0 +1,14 @@
+{
+  "name": "garrulousBear",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "engines": {
+    "node": ">=4.2"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
